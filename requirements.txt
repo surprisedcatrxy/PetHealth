@@ -1,0 +1,9 @@
+autogen_agentchat
+autogen_ext.models.openai
+fastmcp
+langchain_ollama
+langchain_community
+langchain.schema
+faiss-cpu
+openai
+ollama
